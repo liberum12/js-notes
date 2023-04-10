@@ -1,0 +1,2 @@
+var piedra = "Piedra";
+ function 
